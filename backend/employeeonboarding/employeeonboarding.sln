@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "employeeonboarding", "employeeonboarding\employeeonboarding.csproj", "{40DCCC41-5368-4C9A-97BA-70E7E316BC66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emonboardingAppApi.module", "emonboardingAppApi.module\emonboardingAppApi.module.csproj", "{8ADC3C8E-8514-4707-A69C-477B6649933B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "emonboardingAppApi.model", "emonboardingAppApi.module\emonboardingAppApi.model.csproj", "{8ADC3C8E-8514-4707-A69C-477B6649933B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmplyeeData.Database", "EmplyeeData.Database\EmplyeeData.Database.csproj", "{0718BB24-F05F-4103-ADD7-89CF08A63482}"
 EndProject

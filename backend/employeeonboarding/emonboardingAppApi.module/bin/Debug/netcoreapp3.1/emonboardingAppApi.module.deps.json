@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "emonboardingAppApi.module/1.0.0": {
+        "runtime": {
+          "emonboardingAppApi.module.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "emonboardingAppApi.module/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

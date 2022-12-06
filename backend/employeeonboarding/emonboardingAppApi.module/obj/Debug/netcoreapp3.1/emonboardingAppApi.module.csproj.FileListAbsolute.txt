@@ -1,0 +1,10 @@
+D:\employeeonboarding\backend\employeeonboarding\emonboardingAppApi.module\bin\Debug\netcoreapp3.1\emonboardingAppApi.module.deps.json
+D:\employeeonboarding\backend\employeeonboarding\emonboardingAppApi.module\bin\Debug\netcoreapp3.1\emonboardingAppApi.module.dll
+D:\employeeonboarding\backend\employeeonboarding\emonboardingAppApi.module\bin\Debug\netcoreapp3.1\emonboardingAppApi.module.pdb
+D:\employeeonboarding\backend\employeeonboarding\emonboardingAppApi.module\obj\Debug\netcoreapp3.1\emonboardingAppApi.module.csproj.AssemblyReference.cache
+D:\employeeonboarding\backend\employeeonboarding\emonboardingAppApi.module\obj\Debug\netcoreapp3.1\emonboardingAppApi.module.GeneratedMSBuildEditorConfig.editorconfig
+D:\employeeonboarding\backend\employeeonboarding\emonboardingAppApi.module\obj\Debug\netcoreapp3.1\emonboardingAppApi.module.AssemblyInfoInputs.cache
+D:\employeeonboarding\backend\employeeonboarding\emonboardingAppApi.module\obj\Debug\netcoreapp3.1\emonboardingAppApi.module.AssemblyInfo.cs
+D:\employeeonboarding\backend\employeeonboarding\emonboardingAppApi.module\obj\Debug\netcoreapp3.1\emonboardingAppApi.module.csproj.CoreCompileInputs.cache
+D:\employeeonboarding\backend\employeeonboarding\emonboardingAppApi.module\obj\Debug\netcoreapp3.1\emonboardingAppApi.module.dll
+D:\employeeonboarding\backend\employeeonboarding\emonboardingAppApi.module\obj\Debug\netcoreapp3.1\emonboardingAppApi.module.pdb

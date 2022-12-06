@@ -1,0 +1,10 @@
+D:\employeeonboarding\backend\employeeonboarding\EmplyeeData.Database\bin\Debug\netcoreapp3.1\EmplyeeData.Database.deps.json
+D:\employeeonboarding\backend\employeeonboarding\EmplyeeData.Database\bin\Debug\netcoreapp3.1\EmplyeeData.Database.dll
+D:\employeeonboarding\backend\employeeonboarding\EmplyeeData.Database\bin\Debug\netcoreapp3.1\EmplyeeData.Database.pdb
+D:\employeeonboarding\backend\employeeonboarding\EmplyeeData.Database\obj\Debug\netcoreapp3.1\EmplyeeData.Database.csproj.AssemblyReference.cache
+D:\employeeonboarding\backend\employeeonboarding\EmplyeeData.Database\obj\Debug\netcoreapp3.1\EmplyeeData.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\employeeonboarding\backend\employeeonboarding\EmplyeeData.Database\obj\Debug\netcoreapp3.1\EmplyeeData.Database.AssemblyInfoInputs.cache
+D:\employeeonboarding\backend\employeeonboarding\EmplyeeData.Database\obj\Debug\netcoreapp3.1\EmplyeeData.Database.AssemblyInfo.cs
+D:\employeeonboarding\backend\employeeonboarding\EmplyeeData.Database\obj\Debug\netcoreapp3.1\EmplyeeData.Database.csproj.CoreCompileInputs.cache
+D:\employeeonboarding\backend\employeeonboarding\EmplyeeData.Database\obj\Debug\netcoreapp3.1\EmplyeeData.Database.dll
+D:\employeeonboarding\backend\employeeonboarding\EmplyeeData.Database\obj\Debug\netcoreapp3.1\EmplyeeData.Database.pdb
